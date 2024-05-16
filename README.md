@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsKrusi30
 - 👀 I’m interested in Gaming and Programming
-- 🌱 I’m currently learning Html, css, js, jquery and php
+- 🌱 I’m currently using Html, css(SASS), js & Bootstrap
 - 📫 How to reach me: you can't
 
 <!---
