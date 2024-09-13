@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItsKrusi30
-- 👀 I’m interested in Gaming and Programming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently using Html, css(SASS), js & Bootstrap
 - 📫 How to reach me: you can't
 
